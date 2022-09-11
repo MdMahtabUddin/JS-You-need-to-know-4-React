@@ -15,6 +15,15 @@ let season = 'rainy';
 //* 5. function  
 
 //* 6.object
+// property access 
+const students ={
+    name:'Mahtab',
+    age:30,
+    address:'Dhaka'};
+
+    console.log(students.age) /*direct access by property*/
+    console.log(students['age']) /*access via proprty name string*/
+     
 
 
 
